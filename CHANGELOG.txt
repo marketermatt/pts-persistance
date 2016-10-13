@@ -1,0 +1,12 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different parts of a program, by giving you a history of how the conflicting concepts arose and who they came from. 
+
+
+
+2010-07-22  Pixel Theme Studio  <studio@pixelthemestudio.ca>
+     
+	* Added post thumbnails support for WordPress 3.0
+	* Added new menu support for WordPress 3.0
+	
+2010-01-01  Pixel Theme Studio  <studio@pixelthemestudio.ca>
+     
+	* New Theme: Designed and developed this theme
